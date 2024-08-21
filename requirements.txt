@@ -1,0 +1,4 @@
+watchdog
+sqlalchemy
+pandas
+pyodbc
